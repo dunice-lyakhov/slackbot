@@ -1,0 +1,5 @@
+
+/.env
+/sheets_current.json
+/deploy_env_variables/
+/.idea
